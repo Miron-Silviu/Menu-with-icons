@@ -21,7 +21,7 @@ Users should be able to:
 
 # Screenshot
 
-![Image](https://github.com/Miron-Silviu/Menu-with-icons/assets/119732322/55d28e7f-c794-4f9a-9167-b17db9bb109e)
+[DEMO](https://github.com/Miron-Silviu/Menu-with-icons/assets/119732322/55d28e7f-c794-4f9a-9167-b17db9bb109e)
 
 ### Built with
 
