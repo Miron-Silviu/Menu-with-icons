@@ -17,7 +17,7 @@ Users should be able to:
 - 
 # LINK
 
-[CLICK ME FOR LIVE VIEW ]( https://miron-silviu.github.io/Menu-with-icons/)
+[VIEW DEMO]( https://miron-silviu.github.io/Menu-with-icons/)
 
 # Screenshot
 
